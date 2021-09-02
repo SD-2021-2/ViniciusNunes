@@ -1,0 +1,16 @@
+D:\Vinicius\OneDrive\Documentos UFG\Semestre atual\Sistemas Distribuídos\Atividades\Tarefa 2\servidor\bin\Debug\net5.0\servidor.exe
+D:\Vinicius\OneDrive\Documentos UFG\Semestre atual\Sistemas Distribuídos\Atividades\Tarefa 2\servidor\bin\Debug\net5.0\servidor.deps.json
+D:\Vinicius\OneDrive\Documentos UFG\Semestre atual\Sistemas Distribuídos\Atividades\Tarefa 2\servidor\bin\Debug\net5.0\servidor.runtimeconfig.json
+D:\Vinicius\OneDrive\Documentos UFG\Semestre atual\Sistemas Distribuídos\Atividades\Tarefa 2\servidor\bin\Debug\net5.0\servidor.runtimeconfig.dev.json
+D:\Vinicius\OneDrive\Documentos UFG\Semestre atual\Sistemas Distribuídos\Atividades\Tarefa 2\servidor\bin\Debug\net5.0\servidor.dll
+D:\Vinicius\OneDrive\Documentos UFG\Semestre atual\Sistemas Distribuídos\Atividades\Tarefa 2\servidor\bin\Debug\net5.0\ref\servidor.dll
+D:\Vinicius\OneDrive\Documentos UFG\Semestre atual\Sistemas Distribuídos\Atividades\Tarefa 2\servidor\bin\Debug\net5.0\servidor.pdb
+D:\Vinicius\OneDrive\Documentos UFG\Semestre atual\Sistemas Distribuídos\Atividades\Tarefa 2\servidor\obj\Debug\net5.0\servidor.csproj.AssemblyReference.cache
+D:\Vinicius\OneDrive\Documentos UFG\Semestre atual\Sistemas Distribuídos\Atividades\Tarefa 2\servidor\obj\Debug\net5.0\servidor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vinicius\OneDrive\Documentos UFG\Semestre atual\Sistemas Distribuídos\Atividades\Tarefa 2\servidor\obj\Debug\net5.0\servidor.AssemblyInfoInputs.cache
+D:\Vinicius\OneDrive\Documentos UFG\Semestre atual\Sistemas Distribuídos\Atividades\Tarefa 2\servidor\obj\Debug\net5.0\servidor.AssemblyInfo.cs
+D:\Vinicius\OneDrive\Documentos UFG\Semestre atual\Sistemas Distribuídos\Atividades\Tarefa 2\servidor\obj\Debug\net5.0\servidor.csproj.CoreCompileInputs.cache
+D:\Vinicius\OneDrive\Documentos UFG\Semestre atual\Sistemas Distribuídos\Atividades\Tarefa 2\servidor\obj\Debug\net5.0\servidor.dll
+D:\Vinicius\OneDrive\Documentos UFG\Semestre atual\Sistemas Distribuídos\Atividades\Tarefa 2\servidor\obj\Debug\net5.0\ref\servidor.dll
+D:\Vinicius\OneDrive\Documentos UFG\Semestre atual\Sistemas Distribuídos\Atividades\Tarefa 2\servidor\obj\Debug\net5.0\servidor.pdb
+D:\Vinicius\OneDrive\Documentos UFG\Semestre atual\Sistemas Distribuídos\Atividades\Tarefa 2\servidor\obj\Debug\net5.0\servidor.genruntimeconfig.cache
