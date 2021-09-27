@@ -1,0 +1,1 @@
+python -m Pyro4.naming --host=172.31.84.239 --port=11153 --nathost=54.235.242.223 --natport=11153
