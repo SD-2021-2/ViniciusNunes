@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "ihVk6ErJYlk/cwxjMeB7O9zqCHuZ+oRzvSkgGxjQL0tveAJwkS0Za9jQbHcmLOarB9pCxesuXgzb2cqPSBK3hA==",
+  "success": true,
+  "projectFilePath": "D:\\Vinicius\\OneDrive\\Documentos UFG\\Semestre atual\\Sistemas Distribuídos\\Atividades\\Repo-SD\\ViniciusNunes\\Tarefa 3\\Subscribers\\Subscribers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vinic\\.nuget\\packages\\asyncio\\0.1.69\\asyncio.0.1.69.nupkg.sha512",
+    "C:\\Users\\vinic\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\vinic\\.nuget\\packages\\nacl.net\\0.1.13\\nacl.net.0.1.13.nupkg.sha512",
+    "C:\\Users\\vinic\\.nuget\\packages\\netmq\\4.0.1.6\\netmq.4.0.1.6.nupkg.sha512",
+    "C:\\Users\\vinic\\.nuget\\packages\\system.net.http.winhttphandler\\4.4.0\\system.net.http.winhttphandler.4.4.0.nupkg.sha512",
+    "C:\\Users\\vinic\\.nuget\\packages\\system.private.servicemodel\\4.4.0\\system.private.servicemodel.4.4.0.nupkg.sha512",
+    "C:\\Users\\vinic\\.nuget\\packages\\system.reflection.dispatchproxy\\4.4.0\\system.reflection.dispatchproxy.4.4.0.nupkg.sha512",
+    "C:\\Users\\vinic\\.nuget\\packages\\system.security.principal.windows\\4.4.0\\system.security.principal.windows.4.4.0.nupkg.sha512",
+    "C:\\Users\\vinic\\.nuget\\packages\\system.servicemodel.primitives\\4.4.0\\system.servicemodel.primitives.4.4.0.nupkg.sha512",
+    "C:\\Users\\vinic\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
